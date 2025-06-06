@@ -1,3 +1,5 @@
+![WB banner-02](https://github.com/user-attachments/assets/1e5dc6e5-f8c0-451f-9e0f-6f4fc546e6cb)
+
 [Workflow Builder](https://www.workflowbuilder.io/) is a frontend-first SDK for creating complex workflow editors. Designed for hassle-free integration with any backend, it delivers everything you need to design workflows faster – from drag-and-drop nodes to customizable layouts. 
 
 
@@ -7,4 +9,5 @@ Powered by industry-best solutions like React Flow, JSON Forms, and Vite, Workfl
 * Read [documentation](https://synergy-codes.gitbook.io/workflow-builder)
 * Watch Videos [YouTube](https://www.youtube.com/@WorkflowBuilder)
 
-![67c0321d1f8276da8258e597_workflow_builder_app_ui_interface-p-2000](https://github.com/user-attachments/assets/9747594c-a46f-4394-af74-439fe021869f)
+
+
