@@ -27,7 +27,8 @@ A developer-first starter kit built to save time. Skip months of coding and get 
 
 Play with SDK first. Examine the documentation and code. Try it for your PoC or MVP.
 
-Licence starting from $2,990 / one-time payment. (Saving you 700+ hours of coding time.)
+For businesses ready to scale with commercial use of Workflow Builder:
+* licenses start at $2,990 / one-time payment (saving you 700+ hours of coding time)
 
 <h2>Questions and queries</h2>
 
