@@ -30,6 +30,8 @@ Play with SDK first. Examine the documentation and code. Try it for your PoC or 
 For businesses ready to scale with commercial use of Workflow Builder:
 * licenses start at $2,990 / one-time payment (saving you 700+ hours of coding time)
 
+Read more about [pricing](https://www.workflowbuilder.io/pricing).
+
 <h2>Questions and queries</h2>
 
 Visit [Workflow Builder website](https://www.workflowbuilder.io) for more details and contact form.
